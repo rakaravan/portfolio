@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6855be3e.css",
+    "main.js": "/portfolio/static/js/main.37444ac6.js",
+    "static/media/image2.jpg": "/portfolio/static/media/image2.3905b05e0aa5b94002f4.jpg",
+    "static/media/weather.PNG": "/portfolio/static/media/weather.6b343db94f08fe56b09a.PNG",
+    "static/media/image.jpg": "/portfolio/static/media/image.22740174e8e0c207788b.jpg",
+    "static/media/final_coffee.PNG": "/portfolio/static/media/final_coffee.36922db992efeed7e240.PNG",
+    "static/media/final_gym.PNG": "/portfolio/static/media/final_gym.8915d4c2745766f26152.PNG",
+    "static/media/final_ecommerce.PNG": "/portfolio/static/media/final_ecommerce.d783f6183aa0956a80a6.PNG",
+    "static/media/final_coaching.PNG": "/portfolio/static/media/final_coaching.a61345a1772842fcc27e.PNG",
+    "static/media/Rahul_Sharma_CV.pdf": "/portfolio/static/media/Rahul_Sharma_CV.1f077c4c30dbf40ea681.pdf",
+    "static/media/logo.jpg": "/portfolio/static/media/logo.1c8e7f830957b6e1d2d1.jpg",
+    "static/media/final_expense.PNG": "/portfolio/static/media/final_expense.9fb8d05fa492ae417364.PNG",
+    "index.html": "/portfolio/index.html",
+    "main.6855be3e.css.map": "/portfolio/static/css/main.6855be3e.css.map",
+    "main.37444ac6.js.map": "/portfolio/static/js/main.37444ac6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6855be3e.css",
+    "static/js/main.37444ac6.js"
+  ]
+}
